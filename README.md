@@ -1,9 +1,17 @@
-# Setup
+# Text-Em-All React Coding Challenge
+
+2. [Setup](#setup)
+3. [Challenge 1](#challenge-1)
+4. [Challenge 2](#challenge-2)
+
+<a name="setup"></a>
+## Setup
 
 1. Optionally, add your project to a Git repo. Although this is not required, it is our preferred method to review your code.
     - Note: Please do not attempt to add your code to this repo (through a fork or PR) as this would make your solution visible to others.
 
-# Coding Challenge 1
+<a name="challenge-1"></a>
+## Challenge 1
 
 Build and deploy a React application that meets the following criteria:
 
@@ -23,6 +31,7 @@ Please include the following deliverables in your submission:
 - Provide a url for us to view a live version of your application
 - Provide documentation on how we can run your application on our machines
 
-# Coding Challenge 2
+<a name="challenge-2"></a>
+## Challenge 2
 
 A palindrome is a `word` or `phrase` that reads the same backward as forward. Write a `function` that checks for this.
